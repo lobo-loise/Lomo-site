@@ -1,0 +1,28 @@
+nav {
+    font-family: 'PT Mono', monospace;
+    font-size: 20px;
+    color: black;
+    background: white;
+
+}
+.navbar-default {
+    background-color: transparent;
+}
+span {
+    font-family: 'Russo One', sans-serif;
+    font-size: 36px;
+    color: black;
+    margin-left: 10px;
+}
+p {
+	font-family: 'PT Mono', monospace;
+	font-size: 16px;
+	color: gray;
+}
+.container {
+	margin-top: 90px;
+}
+.row {
+	margin-bottom: 20px;
+}
+
